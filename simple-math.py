@@ -1,4 +1,6 @@
 # Group-25-Work-1
+def add(a+b)
+    return(a,b)
 
 i = 0
 
